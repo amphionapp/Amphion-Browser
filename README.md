@@ -1,3 +1,3 @@
 # Amphion-Browser
 
-The browser client for the Amphion app.git
+The browser client for the Amphion client.
